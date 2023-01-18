@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @trend57
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning tensorflow 
-- 💞️ I’m looking to collaborate on any machine leraning project
-- 📫 i can be reached on emai sendit57@gmail.com
+- 👀 
+Passionate and dedicated Data Scientist with 8 years of experience in charity work, including a school and a hospital. Strong qualifications in data science, machine learning, statistical modeling, and data visualization. Skilled in creating predictive models, data mining, and data cleansing. Proven ability to extract insights and drive business decisions. Strong communicator, experienced in presenting findings to stakeholders. Seeking to apply my analytical skills and experience in a data science role.
 
-<!---
-trend57/trend57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+i can be reached on emai sendit57@gmail.com
+<!--
 --->
+z
